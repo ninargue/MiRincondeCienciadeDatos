@@ -8,6 +8,6 @@ Dado un conjunto de elementos, cada uno con un PESO y un VALOR, determina el nú
 
 Deriva su nombre del problema que enfrenta alguien que está limitado por una mochila de tamaño fijo y debe llenarla con los artículos más valiosos.
 
-El problema a menudo surge en la asignación de recursos, donde los tomadores de decisiones tienen que elegir entre un conjunto de proyectos o tareas no divisibles con un presupuesto fijo o una restricción de tiempo, respectivamente.
+El problema a menudo surge en la ASIGNACIÓN DE RECURSOS, donde los tomadores de decisiones tienen que elegir entre un conjunto de proyectos o tareas no divisibles con un presupuesto fijo o una restricción de tiempo, respectivamente.
 
 Fuente: https://en.wikipedia.org/wiki/Knapsack_problem
